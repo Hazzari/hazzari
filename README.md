@@ -1,0 +1,33 @@
+<h2>Hello, I'm Aleksandr! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Freelance Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="user"> 
+</em></p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const aleksan = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Javascript", "CSS", "HTML"],
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        backEnd: {
+            python: ["Django", "DRF", "FastAPI"],
+        },
+        frontEnd: ["Native JS", "Gulp", "Webpack"],
+        devOps: ["Docker🐳", "Nginx", "AWS", "Google CLOUD"],
+        databases: ["PostgreSQL", "MySql", "sqlite3"],
+        misc: ["Firebase", "Selenium", "Open-cv", "Telegram Bot"]
+    },
+    architecture: ["Single page applications"],
+    currentFocus: "Learn -> React/Vue and NodeJS",
+    funFact: "There are two ways to write error-free programs; " +
+             "only the third one works"
+};
+
+```
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
