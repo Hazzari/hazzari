@@ -7,27 +7,21 @@
 
 ```javascript
 const aleksan = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "CSS", "HTML"],
+    code: ["Python", "JavaScript", "CSS", "HTML"],
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         backEnd: {
-            python: ["Django", "DRF", "FastAPI"],
+            python: ["FastAPI", "Django", "DRF"],
         },
-        frontEnd: ["Native JS", "Gulp", "Webpack"],
+        frontEnd: ["Native JS", "Vue3"],
         devOps: ["Docker🐳", "Nginx", "AWS", "Google CLOUD"],
         databases: ["PostgreSQL", "MySql", "sqlite3"],
-        misc: ["Firebase", "Selenium", "Open-cv", "Telegram Bot"]
+            ORM: ["peewee", "SQLAlchemy", "PonyORM"]
+        misc: ["Selenium", "Open-cv", "Telegram Bot"]
     },
-    architecture: ["Single page applications"],
     currentFocus: "Learn -> React/Vue and NodeJS",
     funFact: "There are two ways to write error-free programs; " +
              "only the third one works"
 };
 
 ```
-
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
