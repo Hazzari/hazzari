@@ -4,7 +4,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
-<img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="480">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
 ```javascript
 const aleksan = {
