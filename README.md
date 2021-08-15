@@ -4,7 +4,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
+<img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="280">
 
 ```javascript
 const aleksan = {
@@ -20,7 +20,7 @@ const aleksan = {
             ORM: ["peewee", "SQLAlchemy", "PonyORM"]
         misc: ["Selenium", "Open-cv", "Telegram Bot"]
     },
-    currentFocus: "Learn -> React/Vue and NodeJS",
+    currentFocus: "Learn -> Vue and NodeJS",
     funFact: "There are two ways to write error-free programs; " +
              "only the third one works"
 };
