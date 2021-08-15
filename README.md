@@ -4,25 +4,23 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
-<img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="280">
+<img align='right' src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="415">
 
 ```javascript
 const aleksan = {
     code: ["Python", "JavaScript", "CSS", "HTML"],
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["web dev", "tech", "game"]
     technologies: {
         backEnd: {
             python: ["FastAPI", "Django", "DRF"],
         },
         frontEnd: ["Native JS", "Vue3"],
-        devOps: ["Docker🐳", "Nginx", "AWS", "Google CLOUD"],
+        devOps: ["Docker🐳", "Nginx", "AWS"],
         databases: ["PostgreSQL", "MySql", "sqlite3"],
             ORM: ["peewee", "SQLAlchemy", "PonyORM"]
         misc: ["Selenium", "Open-cv", "Telegram Bot"]
     },
     currentFocus: "Learn -> Vue and NodeJS",
-    funFact: "There are two ways to write error-free programs; " +
-             "only the third one works"
 };
 ```
 
