@@ -6,66 +6,65 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
 <img src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="415">
 
-```javascript
-const aleksan = {
-    code: ["Python", "JavaScript", "CSS", "HTML"],
-    askMeAbout: ["web dev", "tech", "game"]
-    technologies: {
-        backEnd: {
-            python: ["FastAPI", "Django", "DRF"],
-        },
-        frontEnd: ["Native JS", "Vue3"],
-        devOps: ["Docker🐳", "Nginx", "AWS"],
-        databases: ["PostgreSQL", "MySql", "sqlite3"],
-            ORM: ["peewee", "SQLAlchemy", "PonyORM"]
-        misc: ["Selenium", "Open-cv", "Telegram Bot"]
-    },
-    currentFocus: "Learn -> Vue and NodeJS",
-};
-```
 
 ### 🛠 My favorite tools 
 
 <p>
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=green">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
 </p>
 
 ### 🗃Frameworks and libraries
 
 <p>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white">
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white">
+    <img src="https://img.shields.io/badge/-Jinja-white.svg?style=for-the-badge&logo=JINJA&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+ 
 </p>
 
 ### 🏦 Databases and cloud hosting
 
 <p>
-    <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+    <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <a href="#"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"></a>
 </p>
 
 ###  💽 Software and tools 🖥
 
 <p>
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-    <img alt="Git" src ="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=blue">
+    <img alt="Git" src ="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+    <img src="https://img.shields.io/badge/-Ubuntu-black.svg?style=for-the-badge&logo=Ubuntu&logoColor=red"/>  
+    <img src="https://img.shields.io/badge/-Debian-white.svg?style=for-the-badge&logo=Debian&logoColor=red"/>  
+    <img src="https://img.shields.io/badge/-Linux-white.svg?style=for-the-badge&logo=Linux&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nginx%20-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/-Pypi-white.svg?style=for-the-badge&logo=slack&logoColor=red"/>  
+
 </p>
 
 ###  💻 Noutebook
 
 <p>
-<a href="https://www.apple.com/ru/shop/buy-mac/macbook-pro/13-дюймовый-«серый-космос»-процессор-2,0-ггц,-4-ядерный-intel-core-i5-с-графическим-процессором-intel-iris-plus-graphics-512гб"><img alt="Noutebook" src ="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?logo=apple&logoColor=white"></a>
+<a href="https://www.apple.com/ru/shop/buy-mac/macbook-pro/13-дюймовый-«серый-космос»-процессор-2,0-ггц,-4-ядерный-intel-core-i5-с-графическим-процессором-intel-iris-plus-graphics-512гб"><img alt="Noutebook" src ="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 
