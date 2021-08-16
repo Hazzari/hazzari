@@ -58,7 +58,7 @@
 
 </p>
 
-### 🪄IDE
+### 🪄 IDE
 
 <p>
     <a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
@@ -71,6 +71,24 @@
 <a href="https://www.apple.com/ru/shop/buy-mac/macbook-pro/13-дюймовый-«серый-космос»-процессор-2,0-ггц,-4-ядерный-intel-core-i5-с-графическим-процессором-intel-iris-plus-graphics-512гб"><img alt="Noutebook" src ="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
+
+<!-- #### 📖 Прочитано 
+        
+<p>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/1.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/2.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/3.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/4.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/5.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/6.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/7.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/8.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/9.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/10.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/11.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/12.png"/></a>
+    <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/13.png"/></a>
+</p> -->
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
@@ -151,3 +169,4 @@ Vue                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
+        
