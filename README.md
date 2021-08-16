@@ -84,6 +84,8 @@
     <a href=""><img width="40" src="image/books_screen/P3.png"/></a>
     <a href=""><img width="40" src="image/books_screen/P4.png"/></a>
     <a href=""><img width="40" src="image/books_screen/P5.png"/></a>
+    <a href=""><img width="40" src="image/books_screen/P6.png"/></a>
+    <a href=""><img width="40" src="image/books_screen/P7.png"/></a>
     <a href=""><img width="40" src="image/books_screen/J1.png"/></a>
     <a href=""><img width="40" src="image/books_screen/J2.png"/></a>
     <a href=""><img width="40" src="image/books_screen/J3.png"/></a>
