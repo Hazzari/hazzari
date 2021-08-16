@@ -50,11 +50,10 @@
     <a href="https://webpack.js.org"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></a>
     <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-black.svg?style=for-the-badge&logo=Ubuntu&logoColor=red"/></a>
     <a href="https://www.debian.org"><img src="https://img.shields.io/badge/-Debian-white.svg?style=for-the-badge&logo=Debian&logoColor=red"/>  </a>
-    <a href="https://www.linux.org"><img src="https://img.shields.io/badge/-Linux-white.svg?style=for-the-badge&logo=Linux&logoColor=black"/> </a>
     <a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
     <a href="https://nginx.org"><img src="https://img.shields.io/badge/-Nginx%20-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> </a> 
     <a href="https://pypi.org"></a><img src="https://img.shields.io/badge/-Pypi-white.svg?style=for-the-badge&logo=slack&logoColor=red"/></a>
-
+    <a href="https://www.linux.org"><img src="https://img.shields.io/badge/-Linux-white.svg?style=for-the-badge&logo=Linux&logoColor=black"/> </a>
 </p>
 
 ### 💻 Мой рабочий ноутбук
