@@ -72,7 +72,7 @@
 </p>
 
 
-<!-- #### 📖 Прочитано 
+#### 📖 Прочитано 
         
 <p>
     <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/1.png"/></a>
@@ -88,7 +88,7 @@
     <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/11.png"/></a>
     <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/12.png"/></a>
     <a href=""><img width="40" src="https://github.com/Hazzari/hazzari/blob/master/boocs_screen/13.png"/></a>
-</p> -->
+</p> 
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
