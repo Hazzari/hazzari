@@ -32,7 +32,8 @@
     <a href="https://www.postgresql.org"></a><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://pages.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    <a href="https://www.sketch.com"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"></a>
+    <a href="https://aws.amazon.com"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    
 </p>
 
 ### 💽 Инструменты и программы 🖥
@@ -54,6 +55,8 @@
     <a href="https://www.linux.org"><img src="https://img.shields.io/badge/-Linux-white.svg?style=for-the-badge&logo=Linux&logoColor=black"/></a>
     <a href="https://nginx.org"><img src="https://img.shields.io/badge/-Nginx%20-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/></a> 
     <a href="https://pypi.org"></a><img src="https://img.shields.io/badge/-Pypi-white.svg?style=for-the-badge&logo=slack&logoColor=red"/></a>
+    <a href="https://www.sketch.com"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"></a>
+
 </p>
 
 ### 💻 Мой рабочий ноутбук
