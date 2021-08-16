@@ -39,7 +39,6 @@
 ### 💽 Инструменты и программы 🖥
 
 <p>
-    <a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
     <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
     <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm"></a>
     <a href="https://jupyter.org"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
@@ -57,6 +56,13 @@
     <a href="https://pypi.org"></a><img src="https://img.shields.io/badge/-Pypi-white.svg?style=for-the-badge&logo=slack&logoColor=red"/></a>
     <a href="https://www.sketch.com"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"></a>
 
+</p>
+
+### 🪄IDE
+
+<p>
+    <a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+    <a href="https://code.visualstudio.com"><img alt="vscode" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 ### 💻 Мой рабочий ноутбук
