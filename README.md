@@ -92,11 +92,11 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 168 Contributions in the Year 2021
+> 🏆 169 Contributions in the Year 2021
  > 
 > 📦 45.3 kB Used in Github's Storage 
  > 
