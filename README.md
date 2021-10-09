@@ -92,7 +92,7 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -135,17 +135,13 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 53 mins       ███████████████████████░░   93.28% 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-reStructuredText         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  6 hrs 19 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 19 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -166,6 +162,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Hazzari/Hazzari/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
         
