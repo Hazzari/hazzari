@@ -75,21 +75,36 @@
 #### 📖 Прочитано 
 
 <p>
-    <a href=""><img width="40" src="image/books_screen/A1.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/A2.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/A3.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/A4.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P1.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P2.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P3.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P4.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P5.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P6.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P7.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/P8.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/J1.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/J2.png"/></a>
-    <a href=""><img width="40" src="image/books_screen/J3.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/A1.png">
+    <img width="40" src="image/books_screen/A1.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/A2.png">
+    <img width="40" src="image/books_screen/A2.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/A3.png">
+    <img width="40" src="image/books_screen/A3.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/A4.png">
+    <img width="40" src="image/books_screen/A4.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P1.png">
+    <img width="40" src="image/books_screen/P1.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P2.png">
+    <img width="40" src="image/books_screen/P2.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P3.png">
+    <img width="40" src="image/books_screen/P3.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P4.png">
+    <img width="40" src="image/books_screen/P4.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P5.png">
+    <img width="40" src="image/books_screen/P5.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P6.png">
+    <img width="40" src="image/books_screen/P6.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P7.png">
+    <img width="40" src="image/books_screen/P7.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P8.png">
+    <img width="40" src="image/books_screen/P8.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J1.png">
+    <img width="40" src="image/books_screen/J1.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J2.png">
+    <img width="40" src="image/books_screen/J2.png"/></a>
+    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J3.png">
+    <img width="40" src="image/books_screen/J3.png"/></a>
 </p> 
 
 <!--START_SECTION:waka-->
