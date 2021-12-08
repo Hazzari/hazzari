@@ -17,12 +17,12 @@
 <p>
     <a href="https://www.djangoproject.com"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="https://fastapi.tiangolo.com" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
-    <a href="https://vuejs.org"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
+<!--     <a href="https://vuejs.org"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a> -->
     <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="https://docs.pytest.org/"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"></a>
-    <a href="https://jestjs.io/ru/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white"></a>
+<!--     <a href="https://docs.pytest.org/"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"></a> -->
+<!--     <a href="https://jestjs.io/ru/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white"></a> -->
     <a href="https://jinja.palletsprojects.com/"><img alt="Jinja" src="https://img.shields.io/badge/-Jinja-white.svg?style=for-the-badge&logo=JINJA&logoColor=black"/></a>
-    <a href="https://firebase.google.com"><img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a>
+<!--     <a href="https://firebase.google.com"><img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase"/></a> -->
  
 </p>
 
