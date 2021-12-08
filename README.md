@@ -1,5 +1,5 @@
 <h2>Привет меня зовут Александр!</h2>
-<p>Я Python developer и TechOps</p>
+<p>Я Python developer</p>
 
 <img src="https://cdn.dribbble.com/users/962321/screenshots/2788167/gif_13.gif" width="415" alt="dev_user_is_work">
 
