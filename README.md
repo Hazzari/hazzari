@@ -94,11 +94,11 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 35 Contributions in the Year 2022
+> 🏆 37 Contributions in the Year 2022
  > 
 > 📦 82.5 kB Used in Github's Storage 
  > 
@@ -169,6 +169,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Hazzari/Hazzari/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022
+ Last Updated on 26/01/2022
 <!--END_SECTION:waka-->
         
