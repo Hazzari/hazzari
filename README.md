@@ -94,7 +94,7 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
@@ -169,6 +169,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Hazzari/Hazzari/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022
+ Last Updated on 04/02/2022
 <!--END_SECTION:waka-->
         
