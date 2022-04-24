@@ -29,7 +29,7 @@
 <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />          
 </span>
 
-### 💻 Мой рабочий ноутбук
+##### 💻 Мой рабочий ноутбук
 
 <p>
 <a href="https://www.apple.com/ru/shop/buy-mac/macbook-pro/13-дюймовый-«серый-космос»-процессор-2,0-ггц,-4-ядерный-intel-core-i5-с-графическим-процессором-intel-iris-plus-graphics-512гб"><img alt="Notebook" src ="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
