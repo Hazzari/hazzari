@@ -64,12 +64,12 @@
     <img width="40" src="image/books_screen/P7.png"/></a>
     <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/P8.png">
     <img width="40" src="image/books_screen/P8.png"/></a>
-    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J1.png">
-    <img width="40" src="image/books_screen/J1.png"/></a>
-    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J2.png">
-    <img width="40" src="image/books_screen/J2.png"/></a>
-    <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J3.png">
-    <img width="40" src="image/books_screen/J3.png"/></a>
+<!--     <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J1.png"> -->
+<!--     <img width="40" src="image/books_screen/J1.png"/></a> -->
+<!--     <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J2.png"> -->
+<!--     <img width="40" src="image/books_screen/J2.png"/></a> -->
+<!--     <a href="https://github.com/Hazzari/hazzari/blob/master/image/books_screen/J3.png"> -->
+<!--     <img width="40" src="image/books_screen/J3.png"/></a> -->
 </p> 
 
 <!--START_SECTION:waka-->
